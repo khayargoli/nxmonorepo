@@ -1,0 +1,9 @@
+{
+  "name": "laerningnx-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/laerningnx-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["laerningnx"],
+  "// targets": "to see all targets run: nx show project laerningnx-e2e --web",
+  "targets": {}
+}
