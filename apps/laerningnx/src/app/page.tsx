@@ -1,3 +1,5 @@
+import Pagecomponent from "apps/laerningnx/components/pagecomponent";
+
 export default function Index() {
   /*
    * Replace the elements below with your own.
@@ -9,10 +11,7 @@ export default function Index() {
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
-            <h1>
-              <span> Hello there, </span>
-              Welcome laerningnx 👋
-            </h1>
+            <Pagecomponent />
           </div>
 
           <div id="hero" className="rounded">
